@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Michał
-- 👀 I’m interested in creating games, websites, and more...
-- 🌱 I’m currently learning Java, C++, CSS, HTML, C#
+- 👋 Cześć! Jestem Michał.
+- 👀 Mam wiele zainteresowań, te najciekawsze to: elektronika ⚡, szeroko pojęte IT 💻, oraz fizyka 🔬.
+- 🌱 Uczę się kilku języków programowania, natomiast te na których najbardziej się skupiam to: C#, C++ i Java ☕.
 
 <!---
 MK-Yvecor/MK-Yvecor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
