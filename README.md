@@ -1,1 +1,3 @@
-
+- 👋 Cześć! Jestem Michał.
+- 👀 Mam wiele zainteresowań, te najciekawsze to: elektronika ⚡, szeroko pojęte IT 💻, oraz fizyka 🔬.
+- 🌱 Uczę się kilku języków programowania, natomiast te na których najbardziej się skupiam to: C#, C++ i Java ☕.
